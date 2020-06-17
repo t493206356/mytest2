@@ -12,4 +12,7 @@ public class User {
     public static void main(String[] args) {
         System.out.println("haha");
     }
+
+    // 我是分支
+    public void method(){};
 }
